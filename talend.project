@@ -85,6 +85,25 @@
         <elementParameter xmi:id="_Asv4fzxnEei5gtNu5cr55Q" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
       </parameters>
     </implicitContextSettings>
+    <ItemsRelations xmi:id="_-oRCsDxnEei5gtNu5cr55Q">
+      <baseItem xmi:id="_-oRCsTxnEei5gtNu5cr55Q" id="_G0SeYDxnEei5gtNu5cr55Q" version="0.1" type="job"/>
+      <relatedItems xmi:id="_-oRCsjxnEei5gtNu5cr55Q" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCszxnEei5gtNu5cr55Q" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCtDxnEei5gtNu5cr55Q" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCtTxnEei5gtNu5cr55Q" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCtjxnEei5gtNu5cr55Q" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCtzxnEei5gtNu5cr55Q" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCuDxnEei5gtNu5cr55Q" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCuTxnEei5gtNu5cr55Q" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCujxnEei5gtNu5cr55Q" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCuzxnEei5gtNu5cr55Q" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCvDxnEei5gtNu5cr55Q" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCvTxnEei5gtNu5cr55Q" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCvjxnEei5gtNu5cr55Q" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCvzxnEei5gtNu5cr55Q" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCwDxnEei5gtNu5cr55Q" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_-oRCwTxnEei5gtNu5cr55Q" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_9Y5iADxmEei5gtNu5cr55Q" id="org.talend.designer.maven.ui.ConfigMavenRepositoryRemove" breaks="6.0.1" version="6.0.2" status="ok"/>
     <migrationTask xmi:id="_9Y5iATxmEei5gtNu5cr55Q" id="org.talend.mdm.repository.core.migrate.UpdateViewObjectPathMT" breaks="5.1.1" version="5.1.2" status="ok"/>
     <migrationTask xmi:id="_9Y5iAjxmEei5gtNu5cr55Q" id="org.talend.mdm.repository.core.migrate.UpdateProcessObjectPathMT" breaks="5.1.1" version="5.1.2" status="ok"/>
